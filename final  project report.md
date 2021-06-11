@@ -8,6 +8,7 @@
 
 # 動機與目的
 
+因為上這門課的機緣，才去找了圖形識別相關論文，我對Transactions on Pattern Analysis and Machine Intelligence這個主題比較有興趣，因此找上了這篇Hiding Images within Images，希望藉由此次研究，學會如何將兩張圖片做編輯，並且用Convolutional neural network的方式來encode或是decode圖片資料，如果都順利完成，也希望可以延伸
 
 
 
@@ -16,6 +17,8 @@
 > 
 
 # 實驗方法與步驟
+
+
 
 
 
